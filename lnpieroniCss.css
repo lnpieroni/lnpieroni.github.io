@@ -10,3 +10,12 @@ h1 {
   font-weight:bold;
   text-align: center;
 }
+h2 {
+  font-family: "Cormorant";
+  font-size:30px;
+}
+a {
+  color: rgb(24, 215, 49);
+  text-decoration: underline;
+  font-weight: bold;
+}
