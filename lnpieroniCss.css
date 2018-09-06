@@ -15,7 +15,10 @@ h2 {
   font-size:30px;
 }
 a {
-  color: rgb(24, 215, 49);
   text-decoration: underline;
   font-weight: bold;
+  color: rgb(200, 50, 50);
+}
+a:visited {
+  color: rgb(78, 1, 84);
 }
