@@ -9,11 +9,13 @@ h1 {
   font-size: 36px;
   font-weight:bold;
   text-align: center;
+  line-height: 2;
 }
 h2 {
   font-family: "Roboto";
   font-size:30px;
   font-style: italic;
+  line-height: 0;
 }
 a {
   text-decoration: underline;
@@ -26,4 +28,8 @@ a:visited {
 li {
   font-size: 24px;
   font-family: "Roboto";
+  line-height: 1.25;
+}
+p {
+  text-indent: 1.5em;
 }
