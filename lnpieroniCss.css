@@ -20,7 +20,7 @@ h2 {
 a {
   text-decoration: underline;
   font-weight: bold;
-  color: rgb(200, 50, 50);
+  color: #1ABC1F;
 }
 a:visited {
   color: rgb(147, 4, 158);
@@ -32,4 +32,37 @@ li {
 }
 p {
   text-indent: 1.5em;
+}
+
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ol li {
+  display: inline;
+  background-color: #E9BD53;
+  color: #000035;
+  padding: 12px;
+  font-weight: bold;
+  font-family: "Oswald";
+}
+
+ol li:hover {
+  background-color: #000035;
+  color: #E9BD53;
+  padding: 8px;
+  border-width: 4px;
+  border-color: #E9BD53;
+  border-style: solid;
+}
+
+ol li:active {
+  background-color: #000035;
+  color: #E9BD53;
+  padding: 8px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #1ABC1F;
 }
