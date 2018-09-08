@@ -45,6 +45,7 @@ ol li {
   background-color: #E9BD53;
   color: #000035;
   padding: 12px;
+  padding-top: 20px;
   font-weight: bold;
   font-family: "Oswald";
 }
@@ -54,6 +55,7 @@ ol li:hover {
   color: #E9BD53;
   padding: 8px;
   border-width: 4px;
+  border-top-width: 12px;
   border-color: #E9BD53;
   border-style: solid;
 }
@@ -63,6 +65,7 @@ ol li:active {
   color: #E9BD53;
   padding: 8px;
   border-width: 4px;
+  border-top-width: 12px;
   border-style: solid;
   border-color: #1ABC1F;
 }
