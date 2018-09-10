@@ -33,19 +33,3 @@ li {
 p {
   text-indent: 1.5em;
 }
-
-ol {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-ol li {
-  display: inline;
-  background-color: #E9BD53;
-  color: #000035;
-  padding: 12px;
-  padding-top: 20px;
-  font-weight: bold;
-  font-family: "Oswald";
-}
